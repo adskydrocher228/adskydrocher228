@@ -84,22 +84,29 @@
 
 ## 📫 Связаться со мной
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/excviolet)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idaniaruly42@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adskydrocher228)
-
-<br>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD6t0lY5x3pD3Q8/giphy.gif" width="100" alt="coding gif" />
-</div>
 
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/excviolet)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idaniaruly42@gmail.com)  
+
+</div>
 ---
 
 ## 📊 Моя статистика GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adskydrocher228&show_icons=true&theme=radical)
+<div align="center">
 
----
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adskydrocher228&show_icons=true&theme=dark&count_private=true)  
 
-Спасибо, что заглянули! 🙂
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adskydrocher228&layout=compact&theme=dark)
+
+</div>
+
+<div align="center">
+
+### На этом всё, расходимся! 👋
+
+<img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="Mic drop" width="250"/>
+
+</div>
+
