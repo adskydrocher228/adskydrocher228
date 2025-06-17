@@ -32,27 +32,54 @@
 ---
 
 ## 🚀 Проекты
+<div align="center">
 
-### [funwawrcraft](https://github.com/adskydrocher228/funwawrcraft)  
-React-сайт, посвящённый Warcraft — простой SPA с интерактивными элементами и стилизацией под игровую тематику.  
-**Технологии:** React, CSS, Vite.
+### 🎮 [funwawrcraft](https://github.com/adskydrocher228/funwawrcraft)  
+> React-сайт, посвящённый Warcraft — простой SPA с интерактивными элементами и стилизацией под игровую тематику.
 
-### [Project-X](https://github.com/adskydrocher228/Project-X)  
-Минималистичный проект с анимациями и пользовательским интерфейсом — изучение основ CSS и JavaScript.  
-**Технологии:** HTML, CSS, JavaScript.
+**Технологии:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)  
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### [Vincent-van-Gogh](https://github.com/adskydrocher228/Vincent-van-Gogh)  
-Креативный проект, посвящённый художнику Ван Гогу — визуализация и стилизованные эффекты с использованием CSS.  
-**Технологии:** HTML, CSS.
+---
 
-### [Css-animation](https://github.com/adskydrocher228/Css-animation)  
-Коллекция простых и эффектных CSS-анимаций — практика в создании визуальных эффектов для веба.  
-**Технологии:** CSS.
+### ✨ [Project-X](https://github.com/adskydrocher228/Project-X)  
+> Минималистичный проект с анимациями и пользовательским интерфейсом — изучение основ CSS и JavaScript.
 
-### [code-chaos](https://github.com/adskydrocher228/code-chaos)  
-Экспериментальный проект с разнообразными функциональными возможностями и UI-элементами — игра с кодом и дизайном.  
-**Технологии:** JavaScript, CSS, HTML.
+**Технологии:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+---
+
+### 🎨 [Vincent-van-Gogh](https://github.com/adskydrocher228/Vincent-van-Gogh)  
+> Креативный проект, посвящённый художнику Ван Гогу — визуализация и стилизованные эффекты с использованием CSS.
+
+**Технологии:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+---
+
+### 💫 [Css-animation](https://github.com/adskydrocher228/Css-animation)  
+> Коллекция простых и эффектных CSS-анимаций — практика в создании визуальных эффектов для веба.
+
+**Технологии:**  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+---
+
+### 🌀 [code-chaos](https://github.com/adskydrocher228/code-chaos)  
+> Экспериментальный проект с разнообразными функциональными возможностями и UI-элементами — игра с кодом и дизайном.
+
+**Технологии:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+</div>
 ---
 
 ## 📫 Связаться со мной
