@@ -88,6 +88,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/excviolet)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idaniaruly42@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adskydrocher228)
 
 </div>
 ---
@@ -106,7 +107,8 @@
 
 ### На этом всё, расходимся! 👋
 
-<img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="Mic drop" width="250"/>
+<img src="https://media.giphy.com/media/3oz8xLD70iM1c5zm8k/giphy.gif" alt="Walk away" width="250"/>
+
 
 </div>
 
